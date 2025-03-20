@@ -1,4 +1,4 @@
-<h2 align="left">Hello World!, I'm Anshul, a Passionate Web Developer 🚀👋🏼:</h2>
+<h2 align="left">Hello I'm Anshul, I have some pretty cool projects check pins!! :</h2>
 
 ###
 
